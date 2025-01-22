@@ -5,7 +5,7 @@ Ensure the following are installed on your system:
    . MongoDB (local or cloud instance)
    . npm or yarn
 
-Backend Setup
+Backend Setup 
 
    1. Navigate to the backend folder:  $ cd backend
    2. Install dependencies: $ npm install
