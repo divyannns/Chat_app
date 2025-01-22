@@ -1,9 +1,9 @@
 Installation and Setup
 
 Ensure the following are installed on your system:
-   . Node.js (v16 or above)
-   . MongoDB (local or cloud instance)
-   . npm or yarn
+   1. Node.js (v16 or above)
+   2. MongoDB (local or cloud instance)
+   3. npm or yarn
 
 Backend Setup 
 
@@ -13,7 +13,7 @@ Backend Setup
         . MONGO_URI = your_mongodb_connection_string
         . JWT_SECRET = your_jwt_secret_key
         . PORT=3000
-   4. Start the backend server: $ npm start
+   5. Start the backend server: $ npm start
       
 Frontend Setup
 
